@@ -1,8 +1,8 @@
-module github.com/kr/pretty
+module github.com/01ne/pretty
 
-go 1.12
+go 1.18
 
 require (
-	github.com/kr/text v0.2.0
-	github.com/rogpeppe/go-internal v1.9.0
+	github.com/01ne/text v1.0.2
+	github.com/01ne/go-internal v1.0.2
 )

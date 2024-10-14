@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"text/tabwriter"
 
-	"github.com/kr/text"
-	"github.com/rogpeppe/go-internal/fmtsort"
+	"github.com/01ne/text"
+	"github.com/01ne/go-internal/fmtsort"
 )
 
 type formatter struct {
